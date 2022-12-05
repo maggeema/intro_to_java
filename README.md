@@ -1,2 +1,2 @@
-# intro_to_java
-This repo is the culmination of my java ability
+# Inroduction to Java
+This repository showcases programs I worked on at the start of my Java learning journey. 
